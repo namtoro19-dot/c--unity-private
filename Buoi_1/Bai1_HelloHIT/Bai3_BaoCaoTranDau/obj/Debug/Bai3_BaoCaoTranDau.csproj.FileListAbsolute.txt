@@ -1,0 +1,6 @@
+C:\C#-Unity private\Buoi_1\Bai1_HelloHIT\Bai3_BaoCaoTranDau\bin\Debug\Bai3_BaoCaoTranDau.exe
+C:\C#-Unity private\Buoi_1\Bai1_HelloHIT\Bai3_BaoCaoTranDau\bin\Debug\Bai3_BaoCaoTranDau.pdb
+C:\C#-Unity private\Buoi_1\Bai1_HelloHIT\Bai3_BaoCaoTranDau\obj\Debug\Bai3_BaoCaoTranDau.csproj.AssemblyReference.cache
+C:\C#-Unity private\Buoi_1\Bai1_HelloHIT\Bai3_BaoCaoTranDau\obj\Debug\Bai3_BaoCaoTranDau.csproj.CoreCompileInputs.cache
+C:\C#-Unity private\Buoi_1\Bai1_HelloHIT\Bai3_BaoCaoTranDau\obj\Debug\Bai3_BaoCaoTranDau.exe
+C:\C#-Unity private\Buoi_1\Bai1_HelloHIT\Bai3_BaoCaoTranDau\obj\Debug\Bai3_BaoCaoTranDau.pdb

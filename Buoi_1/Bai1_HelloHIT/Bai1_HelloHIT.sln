@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai1_HelloHIT", "Bai1_HelloHIT\Bai1_HelloHIT.csproj", "{501C9F92-B3B8-4F78-A0B0-6365F5974AD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai2_TheNhanVat", "Bai2_TheNhanVat\Bai2_TheNhanVat.csproj", "{91A59B40-AB81-4F08-81F3-613CBAF1439B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai3_BaoCaoTranDau", "Bai3_BaoCaoTranDau\Bai3_BaoCaoTranDau.csproj", "{076B4971-656C-4AFE-9B44-D76D5F14917F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{501C9F92-B3B8-4F78-A0B0-6365F5974AD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{501C9F92-B3B8-4F78-A0B0-6365F5974AD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{501C9F92-B3B8-4F78-A0B0-6365F5974AD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{501C9F92-B3B8-4F78-A0B0-6365F5974AD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91A59B40-AB81-4F08-81F3-613CBAF1439B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91A59B40-AB81-4F08-81F3-613CBAF1439B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91A59B40-AB81-4F08-81F3-613CBAF1439B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91A59B40-AB81-4F08-81F3-613CBAF1439B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{076B4971-656C-4AFE-9B44-D76D5F14917F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{076B4971-656C-4AFE-9B44-D76D5F14917F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{076B4971-656C-4AFE-9B44-D76D5F14917F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{076B4971-656C-4AFE-9B44-D76D5F14917F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

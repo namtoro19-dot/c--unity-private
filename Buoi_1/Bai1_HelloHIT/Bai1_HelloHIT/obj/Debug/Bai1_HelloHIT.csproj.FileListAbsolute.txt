@@ -1,0 +1,6 @@
+C:\C#-Unity private\Buoi_1\Bai1_HelloHIT\Bai1_HelloHIT\obj\Debug\Bai1_HelloHIT.csproj.AssemblyReference.cache
+C:\C#-Unity private\Buoi_1\Bai1_HelloHIT\Bai1_HelloHIT\obj\Debug\Bai1_HelloHIT.csproj.CoreCompileInputs.cache
+C:\C#-Unity private\Buoi_1\Bai1_HelloHIT\Bai1_HelloHIT\bin\Debug\Bai1_HelloHIT.exe
+C:\C#-Unity private\Buoi_1\Bai1_HelloHIT\Bai1_HelloHIT\bin\Debug\Bai1_HelloHIT.pdb
+C:\C#-Unity private\Buoi_1\Bai1_HelloHIT\Bai1_HelloHIT\obj\Debug\Bai1_HelloHIT.exe
+C:\C#-Unity private\Buoi_1\Bai1_HelloHIT\Bai1_HelloHIT\obj\Debug\Bai1_HelloHIT.pdb
